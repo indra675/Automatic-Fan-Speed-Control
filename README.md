@@ -86,9 +86,7 @@ Built and validated using **Autodesk Tinkercad Circuits**.
 - RPM feedback sensor for closed-loop speed control
 - TMP36 offset calibration for improved accuracy
 
-## 🙏 Acknowledgments
 
-Special thanks to my mentor, **Anil Dasaroju**, for his guidance and support throughout this project.
 
 ## 👤 Author
 
