@@ -87,9 +87,8 @@ Built and validated using **Autodesk Tinkercad Circuits**.
 - TMP36 offset calibration for improved accuracy
 
 
-
-## 👤 Author
+# 👤 Author
 
 **Galla Indranag**
 B.Tech ECE, NRI Institute of Technology, Guntur
-Embedded Systems and IoT Engineering (ESSCI ELE/Q1404), SRM University AP
+[LinkedIn](https://linkedin.com/in/gallaindranag) | [GitHub](https://github.com/indra675)
