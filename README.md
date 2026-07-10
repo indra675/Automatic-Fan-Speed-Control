@@ -91,4 +91,8 @@ Built and validated using **Autodesk Tinkercad Circuits**.
 
 **Galla Indranag**
 B.Tech ECE, NRI Institute of Technology, Guntur
+
+Embedded Systems & IoT Engineering (ESSCI-certified), SRM University AP
+
+
 [LinkedIn](https://linkedin.com/in/gallaindranag) | [GitHub](https://github.com/indra675)
